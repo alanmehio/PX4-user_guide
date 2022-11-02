@@ -28,6 +28,10 @@ For more information see [Basic Concepts](../getting_started/px4_basic_concepts.
 
 ## Setting the Orientation
 
+:::note
+You can skip this section if the flight controller and compass are mounted upright on the vehicle and facing the front (this is the default orientation - ROTATION_NONE).
+:::
+
 To set the orientations:
 
 1. Start *QGroundControl* and connect the vehicle.
