@@ -20,7 +20,7 @@ To start multiple instances (on separate ports):
    ```
 1. Run **sitl_multiple_run.sh**, specifying the number of instances to start (e.g. 2):
    ```
-   ./Tools/sitl_multiple_run.sh 2
+   ./Tools/simulation/sitl_multiple_run.sh 2
    ```
 1. Start the first instance in the same terminal (this will run in the foreground):
    ```
